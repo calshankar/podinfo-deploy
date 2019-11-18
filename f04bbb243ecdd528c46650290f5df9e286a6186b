@@ -1,0 +1,1 @@
+{"jobID":"a4bc2c7b-df2f-0f13-f7ae-5b70f0c0f83a","spec":{"type":"policy","cause":{"Message":"","User":"Shankar Ramanathan \u003cshankar@moengage.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.podinfod":"semver:\u003e3.1.0"},"remove":null}}},"result":null}
